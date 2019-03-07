@@ -1,2 +1,2 @@
-# LMMK
-Large-Margin Multiple Kernel Learning algorithm
+# Large-Margin Multiple Kernel Learning algorithm (LMMK)
+
